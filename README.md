@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on netflix-clone
  
- 🌱 I’m currently learning **Redux,Next.js,Typescript**
+ 🌱 I’m currently learning **Next.js,Typescript**
 
  📫 How to reach me **sushildawadi14@gmail.com**
 
