@@ -49,7 +49,7 @@
  <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushildawadi&show_icons=true&locale=en" alt="sushildawadi" /></p>
 
   <br/>
-  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushildawadi&" alt="sushildawadi" /></p>
+  
 </div>
 
 <br/><br/>
