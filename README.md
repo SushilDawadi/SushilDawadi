@@ -9,7 +9,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on netflix-clone
+ 🔭 Right now, I'm engaged in working on projects using Next.js,Typescript aiming to both learn from it and put what I've learned into practice.
  
  🌱 I’m currently learning **Next.js,Typescript**
 
