@@ -8,6 +8,9 @@
 <br/>
 
 <div align="left">
+
+<h3 align="center"> An enthusiastic software developer from Nepal <br/> who approaches coding with great passion and dedication.</h3>
+
  
  🔭 I'm currently working on projects using Next.js and TypeScript.
  
