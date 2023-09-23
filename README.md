@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=5000&lines=Hi+There!+👋;+I'm+Sushil+Dawadi!;" />
 </h1>
 <br/>
-<div>
-<h3 align="center"> An enthusiastic software developer from Nepal <br/> who approaches coding with great passion and dedication.</h3>
-<div/>
+
 
 <br/>
 
