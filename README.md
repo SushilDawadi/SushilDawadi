@@ -9,7 +9,7 @@
 
 <div align="left">
 
- An enthusiastic software developer from Nepal <br/> who approaches coding with great passion and dedication
+ An enthusiastic software developer from Nepal  who approaches coding with great passion and dedication
 
  
  🔭 I'm currently working on projects using Next.js and TypeScript.
