@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-A passionate software developer from Nepal, I approach coding with dedication and enthusiasm. I have expertise in Next.js, JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, SQL, Tailwind, and TypeScript, I've applied these skills to craft various web applications. Beyond my professional endeavors, I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🔭 I'm currently working on Ecommerce Project<br><br>🌱 I’m currently learning Next.js,Typescript<br><br>📫 How to reach me sushildawadi14@gmail.com
+A passionate software developer from Nepal, I approach coding with dedication and enthusiasm. I have expertise in Next.js, JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, SQL, Tailwind, and TypeScript, I've applied these skills to craft various web applications. Beyond my professional endeavors, I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🔭 I'm currently working flutter projects<br><br>🌱 I’m currently learning Flutter<br><br>📫 How to reach me sushildawadi14@gmail.com
 
 
 ## 🌐 Socials:
