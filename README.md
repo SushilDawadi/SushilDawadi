@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-A passionate software developer from Nepal, I approach coding with dedication and enthusiasm. I have expertise in JavaScript, HTML, CSS, Bootstrap, React.js, Git & GitHub, MongoDB, SQL, Tailwind . I've applied these skills to craft various web applications. Beyond my professional endeavors, I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🔭 I'm currently working Flutter <br><br>🌱 I’m currently learning Flutter<br><br>📫 How to reach me sushildawadi14@gmail.com
+I'm a passionate software developer from Nepal learning Flutter. Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🔭 I'm currently working Flutter <br><br>🌱 I’m currently learning Flutter<br><br>📫 How to reach me sushildawadi14@gmail.com
 
 
 ## 🌐 Socials:
