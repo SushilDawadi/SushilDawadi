@@ -1,7 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sushildawadi&label=Profile%20views&color=0e75b6&style=flat" alt="sushildawadi" /> </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏻;+I+am+Sushil+Dawadi!;" />
-</h1>
+ <h1 align="center">नमस्ते (Namaste) 🙏🏻 I am Sushil Dawadi!</h1>
+
 <br/>
 
 
