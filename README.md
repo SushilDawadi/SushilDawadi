@@ -1,11 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sushildawadi&label=Profile%20views&color=0e75b6&style=flat" alt="sushildawadi" /> </p>
- <h1 align="center">नमस्ते (Namaste) 🙏🏻 I am Sushil Dawadi!</h1>
+ <h1 align="center">Hi, 🙏🏻 I am Sushil Dawadi!</h1>
 
 <br/>
 
 
 ## 💫About Me:
-I'm a passionate software developer from Nepal . Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning Flutter<br><br>📫 How to reach me sushildawadi14@gmail.com
+I'm a passionate software developer from Nepal . Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning Laravel<br><br>📫 How to reach me sushildawadi14@gmail.com
 
 
 ## 🌐Socials:
