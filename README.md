@@ -5,7 +5,7 @@
 
 
 ## 💫About Me:
-I'm a passionate software developer from Nepal . Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning Laravel<br><br>📫 How to reach me sushildawadi14@gmail.com
+I'm a passionate software developer from Nepal . Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning nodejs and typescript<br><br>📫 How to reach me sushildawadi14@gmail.com
 
 
 ## 🌐Socials:
