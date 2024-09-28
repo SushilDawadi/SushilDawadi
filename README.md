@@ -83,7 +83,23 @@ I'm a passionate software developer from Nepal . Excited to innovate and explore
       </a>
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
+      <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
+      </a>
+    </td>
+    <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
+      </a>
+    </td>
+  
+ 
+  
+  </tr>
 </table>
+
 
 
 
