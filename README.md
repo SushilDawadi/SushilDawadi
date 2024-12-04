@@ -72,11 +72,7 @@ I'm a passionate software developer from Nepal . Excited to innovate and explore
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
       </a>
     </td>
-    <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
-      </a>
-    </td>
+ 
     <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
