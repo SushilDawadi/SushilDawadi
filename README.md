@@ -1,21 +1,18 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sushildawadi&label=Profile%20views&color=0e75b6&style=flat" alt="sushildawadi" /> </p>
- <h1 align="center">Hi, 🙏🏻 I am Sushil Dawadi!</h1>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sushildawadi&label=Profile%20views&color=0e75b6&style=flat" alt="sushildawadi" />
+</p>
+<h1 align="center">Hi, 🙏🏻 I am Sushil Dawadi!</h1>
 
 <br/>
 
+## 💫 About Me:
+I'm a passionate software developer from Nepal. Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning nodejs and typescript<br><br>📫 How to reach me: sushildawadi14@gmail.com
 
-## 💫About Me:
-I'm a passionate software developer from Nepal . Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning nodejs and typescript<br><br>📫 How to reach me sushildawadi14@gmail.com
-
-
-## 🌐Socials:
+## 🌐 Socials:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sushil-dawadi-071a21259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushil-dawadi-071a21259/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sushildwd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sushildwd/" height="30" width="40" /></a>
 
-
-
-
-## 💻Tech Stack:
+## 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SushilDawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <table>
@@ -72,14 +69,6 @@ I'm a passionate software developer from Nepal . Excited to innovate and explore
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
       </a>
     </td>
- 
-    <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td valign="top" width="16.66%" align="center" style="border: 1px solid #e1e4e8; padding: 10px;">
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
@@ -90,25 +79,8 @@ I'm a passionate software developer from Nepal . Excited to innovate and explore
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
       </a>
     </td>
-  
- 
-  
   </tr>
 </table>
 
-
-
-
- 
-
-
-
-     
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SushilDawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
