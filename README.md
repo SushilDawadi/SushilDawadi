@@ -6,7 +6,7 @@
 <br/>
 
 ## 💫 About Me:
-I'm a passionate software developer from Nepal. Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning nodejs and typescript<br><br>📫 How to reach me: sushildawadi14@gmail.com
+I'm a passionate Mobile Application Developer from Nepal. Excited to innovate and explore new possibilities in tech. I'm a dedicated learner with a sincere passion for adopting emerging technologies. I firmly believe that genuine growth is achieved exclusively through the continuous process of learning.<br><br>🌱 I’m currently learning nodejs and typescript<br><br>📫 How to reach me: sushildawadi14@gmail.com
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sushil-dawadi-071a21259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushil-dawadi-071a21259/" height="30" width="40" /></a>
