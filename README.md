@@ -82,5 +82,3 @@ I'm a passionate Mobile Application Developer from Nepal. Excited to innovate an
   </tr>
 </table>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SushilDawadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
